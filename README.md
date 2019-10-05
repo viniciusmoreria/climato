@@ -6,7 +6,7 @@ To create a simple Weather App powered with live data from [OpenWeatherApi](http
 
 ### :camera: Media
 <p align="center">
-<img src="https://github.com/viniciusmoreeira/climato/blob/master/lib/images/screen.png"" width="250px">
+<img src="https://github.com/viniciusmoreeira/climato/blob/master/images/screen.png"" width="250px">
 </p>
 
 ## What I Learned
